@@ -25,9 +25,9 @@ short_bio: >-
   
   <p>
     During my undergraduate studies at Maryland, I was academically advised by <a href="https://scholar.google.com/citations?user=hBKWbpsAAAAJ&hl=en" target="_blank">Prof. James Yorke</a> on research direction, academic development, and career planning.
-    I worked with <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> on <strong>Hidden Markov Model-Based Brain State Dynamics</strong> using <strong>Simultaneous EEG-fMRI in Humans</strong> and <strong>Simultaneous Ca<sup>2+</sup>-fMRI in Mice</strong>.
-    I was also supervised by <a href="https://weitzgroup.umd.edu/people/joshua-weitz/" target="_blank">Prof. Joshua Weitz</a> on <strong>Infectious Disease Dynamics</strong>, with a focus on <strong>Breakthrough Infections</strong> and <strong>Vaccine Hesitancy</strong>.
-    In addition, I collaborated with Dr. Jonghyeon Seo on <strong>EEG-Based Dementia Classification</strong> using <strong>Dynamic Mode Decomposition</strong>, where we developed <strong>Clustered Pattern Projection</strong> to improve classification reliability.
+    I worked with <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> on Hidden Markov Model-Based Brain State Dynamics using Simultaneous EEG-fMRI in Humans and Simultaneous Ca<sup>2+</sup>-fMRI in Mice.
+    I was also supervised by <a href="https://weitzgroup.umd.edu/people/joshua-weitz/" target="_blank">Prof. Joshua Weitz</a> on Infectious Disease Dynamics, with a focus on Breakthrough Infections and Vaccine Hesitancy.
+    In addition, I collaborated with Dr. Jonghyeon Seo on EEG-Based Dementia Classification using Dynamic Mode Decomposition, where we developed Clustered Pattern Projection to improve classification reliability.
   </p>
   
   <p>
@@ -36,7 +36,7 @@ short_bio: >-
     More broadly, I aim to understand how distributed neural systems generate, regulate, and transition between cognitive and affective states across species and measurement modalities.
   </p>
 
-portrait_url: /assets/images/profile.jpg
+portrait_url: /assets/images/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
