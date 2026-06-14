@@ -5,7 +5,7 @@ navbar_name: "Jacob Kang"
 positions:
 - name: Ph.D. Student
 - name: University of Maryland - College Park
-  logo: /assets/images/badges/UMD_logo.svg  # Logo is optional
+  logo: /assets/images/badges/UMD_logo.svg
 
 
 email: "jkang115@umd.edu"
@@ -20,7 +20,6 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     Hi, I am Jacob Kang, an incoming Ph.D. student under <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> in <a href="https://www.inspirelab.site" target="_blank">INSPIRE Lab</a>. 
-    I received my B.S. degree in Computer Science and Mathematics: Statistics from the University of Maryland, College Park, and will continue my studies as a Ph.D. student in the Bioengineering program at Maryland.
   </p>
   
   <p>
@@ -41,16 +40,20 @@ portrait_url: /assets/images/portrait.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Maryland - College Park
+  logo: /assets/images/badges/UMD_logo.svg
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Fischell Department of Bioengineering <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Aug. 2026 - present
+- name: University of Maryland - College Park
+  logo: /assets/images/badges/UMD_logo.svg
+  position: B.S. in Computer Science and Mathematics: Statistics
+  date: Jan. 2024 - May. 2026
+- name: Pennsylvania State University - University Park
+  logo: /assets/images/badges/PSU_logo.png
+  position: Studied Computational Data Science
+  date: Aug. 2022 - Dec. 2023
 
 # experience:
 # - name: Peking University
@@ -59,9 +62,9 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: CMNS Scholarship Funds at UMD
+  date: 2025
+- name: President Transfer Scholarship at UMD
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: President Walker Award at PSU
+  date: 2023
