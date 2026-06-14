@@ -20,17 +20,20 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     Hi, I am Jacob Kang, an incoming Ph.D. student under <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> in <a href="https://www.inspirelab.site" target="_blank">INSPIRE Lab</a>. 
-    I received my B.S. degree in Computer Science and Mathematics: Statistics from the University of Maryland, College Park, and am continuing my studies in the Bioengineering Ph.D. program at the University of Maryland. 
+    I received my B.S. degree in Computer Science and Mathematics: Statistics from the University of Maryland, College Park, and will continue my studies as a Ph.D. student in the Bioengineering program at Maryland.
   </p>
+  
   <p>
-    During my undergraduate, I worked with <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> on **Hidden Markov Model-based Brain State Dynamics** from **Simultaneuous EEG-fMRI from Humans** and **Simultaneous Ca2+-fMRI from Mouse**.
-    I was supervised by <a href="https://weitzgroup.umd.edu/people/joshua-weitz/" target="_blank">Prof. Joshua Weitz</a> on **Infectious Disease Dynamics** with **Breakthrough Infections** and **Vaccine Hesitancy**.
-    Lastly, I worked with Dr. Jonghyeon Seo on **EEG-based Dementia Classification** using **Dynamic Mode Decomposition** and developed **Clustered Pattern Projection** together to promote reliability of the classification. 
+    During my undergraduate studies at Maryland, I was academically advised by <a href="https://scholar.google.com/citations?user=hBKWbpsAAAAJ&hl=en" target="_blank">Prof. James Yorke</a> on research direction, academic development, and career planning.
+    I worked with <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> on <strong>Hidden Markov Model-Based Brain State Dynamics</strong> using <strong>Simultaneous EEG-fMRI in Humans</strong> and <strong>Simultaneous Ca<sup>2+</sup>-fMRI in Mice</strong>.
+    I was also supervised by <a href="https://weitzgroup.umd.edu/people/joshua-weitz/" target="_blank">Prof. Joshua Weitz</a> on <strong>Infectious Disease Dynamics</strong>, with a focus on <strong>Breakthrough Infections</strong> and <strong>Vaccine Hesitancy</strong>.
+    In addition, I collaborated with Dr. Jonghyeon Seo on <strong>EEG-Based Dementia Classification</strong> using <strong>Dynamic Mode Decomposition</strong>, where we developed <strong>Clustered Pattern Projection</strong> to improve classification reliability.
   </p>
+  
   <p>
-    My research interests lie at the intersection of computational neuroscience, machine learning, and neuroimaging. 
-    I am interested in developing computational methods to uncover latent neural representations and nonstationary brain dynamics from multimodal neuroimaging data. 
-    In the future, I hope to better understand how distributed neural systems generate, regulate, and transition between cognitive and affective states across species and modalities.
+    My research interests lie at the intersection of computational neuroscience, machine learning, and neuroimaging.
+    I am interested in developing computational methods to uncover latent neural representations and characterize nonstationary brain dynamics from multimodal neuroimaging data.
+    More broadly, I aim to understand how distributed neural systems generate, regulate, and transition between cognitive and affective states across species and measurement modalities.
   </p>
 
 portrait_url: /assets/images/profile.jpg
