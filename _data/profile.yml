@@ -9,13 +9,10 @@ positions:
 
 
 email: "jkang115@umd.edu"
-cv_link: /assets/images/profile.jpg
+cv_link: /assets/cv-jk.pdf
 gscholar: opKB0pYAAAAJ
 github: mdsnpr
 # twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: jacob-kang-339029250
 orcid: 0009-0002-6581-9829
 
@@ -26,12 +23,17 @@ short_bio: >-
     I received my B.S. degree in Computer Science and Mathematics: Statistics from the University of Maryland, College Park, and am continuing my studies in the Bioengineering Ph.D. program at the University of Maryland. 
   </p>
   <p>
+    During my undergraduate, I worked with <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> on **Hidden Markov Model-based Brain State Dynamics** from **Simultaneuous EEG-fMRI from Humans** and **Simultaneous Ca2+-fMRI from Mouse**.
+    I was supervised by <a href="https://weitzgroup.umd.edu/people/joshua-weitz/" target="_blank">Prof. Joshua Weitz</a> on **Infectious Disease Dynamics** with **Breakthrough Infections** and **Vaccine Hesitancy**.
+    Lastly, I worked with Dr. Jonghyeon Seo on **EEG-based Dementia Classification** using **Dynamic Mode Decomposition** and developed **Clustered Pattern Projection** together to promote reliability of the classification. 
+  </p>
+  <p>
     My research interests lie at the intersection of computational neuroscience, machine learning, and neuroimaging. 
     I am interested in developing computational methods to uncover latent neural representations and nonstationary brain dynamics from multimodal neuroimaging data. 
     In the future, I hope to better understand how distributed neural systems generate, regulate, and transition between cognitive and affective states across species and modalities.
   </p>
 
-portrait_url: /assets/images/photos/pfp.jpg
+portrait_url: /assets/images/profile.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
