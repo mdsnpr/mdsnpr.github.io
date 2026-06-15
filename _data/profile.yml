@@ -24,10 +24,13 @@ short_bio: >-
   </p>
   
   <p>
-    During my undergraduate studies at Maryland, I was academically advised by <a href="https://scholar.google.com/citations?user=hBKWbpsAAAAJ&hl=en" target="_blank">Prof. James Yorke</a> on research direction, academic development, and career planning.
-    I worked with <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> on Hidden Markov Model-Based Brain State Dynamics using Simultaneous EEG-fMRI in Humans and Simultaneous Ca<sup>2+</sup>-fMRI in Mice.
-    I was also supervised by <a href="https://weitzgroup.umd.edu/people/joshua-weitz/" target="_blank">Prof. Joshua Weitz</a> on Infectious Disease Dynamics, with a focus on Breakthrough Infections and Vaccine Hesitancy.
-    In addition, I collaborated with Dr. Jonghyeon Seo on EEG-Based Dementia Classification using Dynamic Mode Decomposition, where we developed Clustered Pattern Projection to improve classification reliability.
+    During my undergraduate studies at Maryland, I was academically advised by <a href="https://scholar.google.com/citations?user=hBKWbpsAAAAJ&hl=en" target="_blank">Prof. James Yorke</a> on research direction, academic & personal development, and career planning. <strong>He is my role model!</strong>
+  </p>
+    
+  <p>
+    I worked with <a href="https://www.inspirelab.site/members/nan-xu.html" target="_blank">Prof. Nan Xu</a> on hidden markov model-based brain state dynamics using simultaneous EEG-fMRI in humans and Ca<sup>2+</sup>-fMRI in Mice.
+    I was also supervised by <a href="https://weitzgroup.umd.edu/people/joshua-weitz/" target="_blank">Prof. Joshua Weitz</a> on infectious disease dynamics, with a focus on breakthrough infections and vaccine hesitancy.
+    In addition, I collaborated with Dr. Jonghyeon Seo on EEG-based dementia classification using dynamic mode decomposition, where we developed clustered pattern projection to improve classification reliability.
   </p>
   
   <p>
@@ -56,11 +59,11 @@ education:
   position: Studied Computational Data Science
   date: Aug. 2022 - Dec. 2023
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: University of Maryland - College Park
+  logo: /assets/images/badges/UMD_logo.svg
+  position: Faculty Assistant
+  date: Jun. 2026 - present
 
 awards:
 - name: CMNS Scholarship Funds at UMD
