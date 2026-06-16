@@ -9,7 +9,7 @@ pub:            "Frontiers in Neuroinformatics"
 pub_date:       "2025"
 semantic_scholar_id: 4a65dc22e54821660b706494143340d1fa57088c  # use this to retrieve citation count
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  A CNN-based framework that applies Dynamic Mode Decomposition (DMD) to segment EO EEG into shorter temporal windows and employs a 3D CNN to capture spatio-temporal-spectral representations outperformed not only the conventional short-epoch spectral ML pipeline but also the same CNN architecture trained on FFT-based features, with particularly pronounced improvements observed in AD classification.
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Jacob Kang
