@@ -1,0 +1,23 @@
+---
+title:          "Dynamic Mode Decomposition-Based Clustered Pattern Projection for Reliable Alzheimer’s Disease Detection from EEG"
+date:           2026-02-10 00:01:00 +0800
+selected:       false
+pub:            "Diagnostics"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2026"
+semantic_scholar_id: b9b3d8b417f9dd983f8519259c5871933226b115  # use this to retrieve citation count
+abstract: >-
+  Clustering-based pattern projection has been shown to stabilize EEG dynamics and provide an interpretable, confidence-aware feature representation, suggesting that DMD-CPP offers a promising framework for reliable AD detection from EO EEG, where conventional spectral methods typically struggle.
+# cover:          /assets/images/covers/cover3.jpg
+authors:
+  - Jonghyeon Seo
+  - Hunseok Kang
+  - Jacob Kang
+  - Aymen Zreikat
+links:
+  Paper: https://www.mdpi.com/2075-4418/16/4/530
+  Code: https://www.mathworks.com/matlabcentral/fileexchange/183208-dmd-cpp
+# Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+---
