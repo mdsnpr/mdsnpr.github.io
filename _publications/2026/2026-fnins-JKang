@@ -1,0 +1,22 @@
+---
+title:          "Clustered Pattern Projection for EEG Dementia Classification: Evaluating the Generalizability of Disorder Patterns"
+date:           2026-06-19 00:01:00 +0800
+selected:       false
+pub:            "Frontiers in Neuroscience"
+# pub_pre:        "Submitted to "
+pub_post:       'Accepted.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2026"
+# semantic_scholar_id: b9b3d8b417f9dd983f8519259c5871933226b115  # use this to retrieve citation count
+# abstract: >-
+# cover:          /assets/images/covers/cover3.jpg
+authors:
+  - Hunseok Kang
+  - Jacob Kang
+  - Mustafa Zeki
+  - Jonghyeon Seo
+links:
+# Paper: https://www.mdpi.com/2075-4418/16/4/530
+# Code: https://www.mathworks.com/matlabcentral/fileexchange/183208-dmd-cpp
+# Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+---
