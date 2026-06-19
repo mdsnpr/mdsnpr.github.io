@@ -11,8 +11,8 @@ pub_date:       "2026"
 # abstract: >-
 # cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Hunseok Kang
-  - Jacob Kang
+  - Hunseok Kang*
+  - Jacob Kang*
   - Mustafa Zeki
   - Jonghyeon Seo
 links:
